@@ -11,7 +11,7 @@ void initializeSoftPWM(void);
 void initializeServo();
 #endif
 
-/**************************************************************************************/
+/**********************************************************  ****************************/
 /***************                  Motor Pin order                  ********************/
 /**************************************************************************************/
 // since we are uing the PWM generation in a direct way, the pin order is just to inizialie the right pins 
